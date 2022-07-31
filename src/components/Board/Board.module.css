@@ -1,0 +1,6 @@
+.Board{
+    width: 400px;
+    height: 400px;
+    position:relative;
+    margin-top: 100px;
+}
